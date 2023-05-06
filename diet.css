@@ -1,0 +1,55 @@
+#box{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    justify-content: space-between;
+
+}
+#wloss , #vloss , #nloss {
+    background-color:#00b3ff;
+
+    background-color :#00b3ff;
+
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    height: 90px;
+    border-radius: 80px;
+    font-size: 40px ;
+}
+#wgain , #vgain , #ngain {  
+    background-color:#00b3ff;
+
+    color: white;
+    font-family: 'Montserrat', sans-serif;;
+    border-radius: 80px;
+    font-size: 40px ;
+}
+#bb , #vb , #nb {
+    background-color:#00b3ff;
+
+    background-color:#00b3ff;
+
+    color: white;
+    border-radius: 80px;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 40px;
+}
+#kdiet , #vdiet , #ndiet {
+    background-color:#00b3ff;
+;
+    background-color: #00b3ff;
+
+    color: white;
+    border-radius: 80px;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 40px;  
+}
+#myPara{
+    color: black;
+    background-color: white;
+    width: fit-content;
+    font-size: x-large; 
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+
+}
